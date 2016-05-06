@@ -1,0 +1,2 @@
+Summary for /www/javadecompilers/app/public/data/06.05.16/aa81494c232b1d84ea9eb65eb7faf568/Snake.jar
+Decompiled with CFR 0_114
